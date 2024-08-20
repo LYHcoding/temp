@@ -1,0 +1,12 @@
+{
+    "name": "LYH",
+    "age": 27,
+    "gender": "男",
+    "address": {
+        "province": "上海",
+        "city": "上海",
+        "district": "徐汇区"
+    },
+    "hobbies": ["篮球", "跑步", "阅读", "影视"],
+    "isStudent": true
+}
